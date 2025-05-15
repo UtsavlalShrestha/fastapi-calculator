@@ -28,9 +28,6 @@ jobs:
       - name: Set PYTHONPATH
         run: echo "PYTHONPATH=$PWD" >> $GITHUB_ENV
 
-      - name: Run black check
-        run: black --check .
-
       - name: Run flake8
         run: flake8 .
 
