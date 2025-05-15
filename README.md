@@ -8,7 +8,6 @@ This app provides a web API to:
 - Subtract two numbers (`/subtract`)
 - Multiply two numbers (`/multiply`)
 - Divide two numbers (`/divide`)
-- Check if the app is running (`/health`)
 
 ## Requirements
 - Python 3.11
