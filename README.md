@@ -1,4 +1,5 @@
 # Simple FastAPI Calculator
+Link: https://www.youtube.com/watch?v=lm8Y7FGO7xA
 
 A beginner-friendly FastAPI app that does addition, subtraction, multiplication, and division.
 
