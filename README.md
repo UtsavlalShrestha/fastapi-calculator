@@ -15,3 +15,10 @@ This app provides a web API to:
 - Docker (optional, to run in a container)
 - Git
 
+## ✅ How to Run It Locally
+
+### 1️⃣ Clone the Repository
+```bash
+   git clone https://github.com/UtsavlalShrestha/fastapi-calculator.git
+   cd fastapi-calculator
+```
